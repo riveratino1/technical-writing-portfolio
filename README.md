@@ -5,7 +5,7 @@ This portfolio highlights my work from my Technical Writing in CIS course. It de
 ## Included Work
 
 ### Research Report
-A long-form report analyzing the future of work, focusing on remote, in-office, and hybrid environments. This project demonstrates my ability to conduct and analyze research, and present these findings in a structured format.
+A long-form report analyzing the future of work, focusing on remote, in-office, and hybrid environments. This project demonstrates my ability to conduct and analyze research, and present these findings in a structured format. This is titled: AlbertoRivera_CIS311_Unit7_Assignment_1.pdf
 
 ### Proposal
 A business proposal recommending the replacement of traditional exit signs with self-illuminating systems. This shows my ability to identify problems, provide solutions, and support recommendations with data.
