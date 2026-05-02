@@ -14,7 +14,7 @@ A business proposal recommending the replacement of traditional exit signs with 
 A step-by-step guide for troubleshooting Wi-Fi connection issues. This demonstrates my ability to write clear, user-focused instructions. This is titled: AlbertoRivera_CIS311_Unit5_Assignment_1.pdf
 
 ### Data Visualization
-A project using Excel to present data on orange production trends. This highlights my ability to organize and interpret data using visuals. This is titled: 
+A project using Excel to present data on orange production trends. This highlights my ability to organize and interpret data using visuals. This is titled: AlbertoRivera_CIS311_Unit4_Assignment_1.pdf
 
 ## Skills Demonstrated
 - Technical writing
