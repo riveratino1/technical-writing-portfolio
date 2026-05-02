@@ -11,7 +11,7 @@ A long-form report analyzing the future of work, focusing on remote, in-office, 
 A business proposal recommending the replacement of traditional exit signs with self-illuminating systems. This shows my ability to identify problems, provide solutions, and support recommendations with data. This is titles: AlbertoRivera_CIS311_Unit6_Assignment_1.pdf
 
 ### Instruction Manual
-A step-by-step guide for troubleshooting Wi-Fi connection issues. This demonstrates my ability to write clear, user-focused instructions. This is titled: 
+A step-by-step guide for troubleshooting Wi-Fi connection issues. This demonstrates my ability to write clear, user-focused instructions. This is titled: AlbertoRivera_CIS311_Unit5_Assignment_1.pdf
 
 ### Data Visualization
 A project using Excel to present data on orange production trends. This highlights my ability to organize and interpret data using visuals. This is titled: 
